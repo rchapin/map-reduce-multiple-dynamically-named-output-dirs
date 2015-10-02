@@ -4,7 +4,7 @@
 
   <groupId>com.ryanchapin.example.hadoop.mosnamedoutputs</groupId>
   <artifactId>multiple-dynamically-named-outputs</artifactId>
-  <version>1.0.0-SNAPSHOT</version>
+  <version>1.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
   <description>
     An example of a MapReduce job that writes to dynamically named output
